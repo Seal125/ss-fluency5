@@ -1,6 +1,6 @@
 # Directions
 
-Using the [JSON Placeholder API](https://jsonplaceholder.typicode.com), answer the following questions. If you want, you can use asyn/await, but you can also use fetch and then methods! **Be sure to include error handling as well. If you're using async/await, look up the try/catch method for error handling.**
+Using the [JSON Placeholder API](https://jsonplaceholder.typicode.com), answer the following questions. If you want, you can use async/await, but you can also use fetch and then methods! **Be sure to include error handling as well. If you're using async/await, look up the try/catch method for error handling.**
 
 1. Write a function, `getUsers`, that returns a promise with an array of user objects.
 
